@@ -1,0 +1,9 @@
+.\objects\motordriver.o: MotorDriver.c
+.\objects\motordriver.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include\MKL25Z4.h
+.\objects\motordriver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\motordriver.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0plus.h
+.\objects\motordriver.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\objects\motordriver.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\objects\motordriver.o: .\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h
+.\objects\motordriver.o: MotorDriver.h
+.\objects\motordriver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
