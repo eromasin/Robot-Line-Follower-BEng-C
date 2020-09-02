@@ -1,6 +1,3 @@
-// Cameron Coats / Group 3
-// EN0627 / NXP Car
-// 
 // UART Handler
 
 #include "UARTHandler.h"
