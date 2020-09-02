@@ -1,6 +1,3 @@
-// Cameron Coats / Group 3
-// EN0627 / NXP Car
-// 
 // Periodic Interrupt Timer Driver
 #include "MKL25Z4.h"
 #include "PITDriver.h"
