@@ -1,6 +1,3 @@
-// Cameron Coats / Group 3
-// EN0627 / NXP Car
-//
 // Linescan Camera Driver (Low Level)
 
 #include "MKL25Z4.h"
