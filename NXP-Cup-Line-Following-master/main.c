@@ -1,6 +1,3 @@
-// Cameron Coats / Group 3
-// EN0627 NXP Car
-// 
 // Main (Centerline detection only)
 
 #include "MKL25Z4.h"
