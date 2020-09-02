@@ -1,6 +1,3 @@
-// Glen Dale / Group 3
-// EN0627 / NXP Car
-//
 // Servo Driver using Timer 1
 
 #include "MKL25Z4.h"
