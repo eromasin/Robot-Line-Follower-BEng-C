@@ -1,6 +1,3 @@
-// Aldo Hasani / Group 3
-// EN0627 / NXP Car
-// 
 // Motor Driver
 
 #include "MKL25Z4.h"
